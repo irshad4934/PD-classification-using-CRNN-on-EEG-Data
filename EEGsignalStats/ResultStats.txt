@@ -1,0 +1,10 @@
+New M PD     :    mean: 3.5871+/-1.0198
+New M Control:    mean: 3.6346+/-1.8152
+New M        :    mean   3.6108
+New M        :    max   10.0667
+New M        :    min   1.2167
+Iowa PD      :    mean: 3.1114+/-1.2282
+Iowa Control :    mean: 3.1714+/-0.95975
+Iowa         :    mean   3.1414
+Iowa         :    max   5.7116
+Iowa         :    min   2.02
