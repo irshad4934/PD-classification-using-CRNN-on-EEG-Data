@@ -1,0 +1,2 @@
+1.add the location of MainProgram.mlapp in Matlab Path
+2.run MainProgram.mlapp in MATLAB

@@ -1,0 +1,2 @@
+1. run load_n_prepare_data.m -> Result.mat
+2. run classification_step.m
