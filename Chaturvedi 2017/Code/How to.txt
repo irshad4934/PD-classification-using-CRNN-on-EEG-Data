@@ -1,0 +1,12 @@
+1. Fix the ROIs: in channelROI.xlsx, point out frontal(F), Tempral(T) etc with left(L) and right(R) 
+2. Fix the bands: in FreqBands.txt
+3. fix datapath: datapath.txt
+4. Optional not used: IF you want selective features, edit featureSelections.txt 
+	format:	
+	FLL.HHRR- frequeancy relative power on band HH~LL in ROI: RR
+	ARR - alpha1/theta ratio  in ROI: RR
+	P- peak frequency
+	M- median frequency
+5. run load_n_prepare_data.m to get Results.mat
+6. Results.mat contains a matrix with subjects x [features class]
+7. Use classification_step.m to classify / use machine learning app in matlab
